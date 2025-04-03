@@ -6,13 +6,11 @@ tags: [Website]
 author: Nancy Jiwono  
 layout: post  
 description: "Learn how to create simple view pages using Laravel framework."  
-image: /assets/simpelLaravel/minionView.png
+image: /assets/simpelLaravel/minion.png
 ---
 
 ## Minion Website Using Laravel 
 This project is a web application built with the Laravel framework, designed to display information about Minions, including a homepage, an about page, and an image gallery.
-
-![Alt Text](/assets/simpelLaravel/minionView.png)
 
 ### Objectives
 This project aims to provide a learning experience on:
@@ -44,6 +42,4 @@ For the complete source code, visit the [GitHub](https://github.com/nancyjwn/Sim
 ------
 
 Hope you enjoyed and learned something new! 🎉  
-The source code is available on [GitHub](https://github.com/nancyjwn/Simpel-View-Pages-Laravel).  
-
-You did well today!! 
+Thank youu!!! 

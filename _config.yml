@@ -26,12 +26,12 @@ description: >- # used by seo meta and the atom feed
 url: "https://nancyjwn.github.io"
 
 github:
-  username: https://github.com/nancyjwn # change to your GitHub username
+  username: nancyjwn # change to your GitHub username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
+  name: Nancy Jiwono
   email: nancyjiwono@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link

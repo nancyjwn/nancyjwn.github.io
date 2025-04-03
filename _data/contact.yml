@@ -2,17 +2,23 @@
 
 - type: github
   icon: "fab fa-github"
+  url: "https://github.com/nancyjwn"
 
-- type: twitter
-  icon: "fa-brands fa-x-twitter"
+- type: instagram
+  icon: "fa-brands fa-instagram"
+  url: "https://www.instagram.com/nancyjiwono?igsh=MWY2azJzeWZ0bW1xOQ=="
 
 - type: email
   icon: "fas fa-envelope"
-  noblank: true # open link in current tab
+  url: "mailto:nancyjiwono@gmail.com"
 
-- type: rss
-  icon: "fas fa-rss"
-  noblank: true
+- type: pinterest
+  icon: "fa-brands fa-pinterest"
+  url: "https://id.pinterest.com/nancyjiwono_"
+
+# - type: rss
+#   icon: "fas fa-rss"
+#   noblank: true
 # Uncomment and complete the url below to enable more contact options
 #
 # - type: mastodon
