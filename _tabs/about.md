@@ -22,8 +22,7 @@ This blog is a space where I share:
 - Programming insights and web development concepts.
 - My **personal projects** and experiences in the tech world.
 
-## Get in Touch
-Feel free to connect with me:
+## Feel free to connect with me:
 - 🌐 [My Website](https://nancyjwn.github.io)
 - 💻 [GitHub](https://github.com/nancyjwn)
 - ✉️ [Email Me](mailto:nancyjiwono@gmail.com)
