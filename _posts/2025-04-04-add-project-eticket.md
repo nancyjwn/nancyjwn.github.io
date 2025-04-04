@@ -6,7 +6,7 @@ tags: [Laravel, PHP, Tailwind CSS, Flowbite]
 author: Nancy Jiwono
 layout: post
 description: "Learn how to create an E-Ticket booking system using Laravel, a powerful PHP framework."
-image: /assets/eticket/cover-eticket.png
+image: /assets/eticket/coverTicket.png
 comments: true
 ---
 
