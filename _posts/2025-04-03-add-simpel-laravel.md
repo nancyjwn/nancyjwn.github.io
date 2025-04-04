@@ -1,12 +1,12 @@
 ---
 title: "Create a Simpel View Pages Using Laravel"
 date: 2024-10-26 
-categories: [Laravel, PHP]
-tags: [Web Development]
+categories: [Web Development]
+tags: [Laravel, PHP]
 author: Nancy Jiwono  
 layout: post  
 description: "Learn how to create simple view pages using Laravel framework."  
-image: /assets/simpelLaravel/minion.png
+image: /assets/simpelLaravel/coverlaravel.png
 comments: true
 ---
 

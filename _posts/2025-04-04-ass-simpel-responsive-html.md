@@ -1,12 +1,12 @@
 ---
 title: "Create a Simple Responsive HTML Page"
-date: 2025-04-04
-categories: [HTML, CSS]
-tags: [Web Development]
+date: 2024-09-29
+categories: [Web Development]
+tags: [HTML, CSS, Responsive Design]
 author: Nancy Jiwono
 layout: post
 description: "Learn how to create a simple responsive HTML page using modern web development techniques."
-image: /assets/simpelHTML/coverkusuriya.png
+image: /assets/simpelHTML/newcover.png
 comments: true
 ---
 
@@ -85,7 +85,8 @@ Here are additional features that can enhance the quality of the project:
 Here is an example of how an image adapts to different screen sizes:  
 ![Responsive Image Example](/assets/simpelHTML/responsive1.png)  
 ![Responsive Image Example](/assets/simpelHTML/responsive2.png)  
-![Responsive Image Example](/assets/simpelHTML/responsive3.png)  
+![Responsive Image Example](/assets/simpelHTML/responsive4.png)
+![Responsive Image Example](/assets/simpelHTML/responsive3.png)
 *This image resizes automatically to fit the screen width.*
 
 #### 3. **Interactive Gallery**  
