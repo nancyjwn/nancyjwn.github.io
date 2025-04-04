@@ -6,7 +6,7 @@ tags: [Laravel, PHP]
 author: Nancy Jiwono  
 layout: post  
 description: "Learn how to create simple view pages using Laravel framework."  
-image: /assets/simpelLaravel/coverlaravel.png
+image: /assets/simpelLaravel/newcover.png
 comments: true
 ---
 
