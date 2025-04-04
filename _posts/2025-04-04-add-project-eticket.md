@@ -6,7 +6,7 @@ tags: [Laravel, PHP, Tailwind CSS, Flowbite]
 author: Nancy Jiwono
 layout: post
 description: "Learn how to create an E-Ticket booking system using Laravel, a powerful PHP framework."
-image: /assets/eticket/coverTicket.png
+image: /assets/eticket/ticketcover.png
 comments: true
 ---
 
@@ -14,50 +14,6 @@ comments: true
 This project is a **web-based e-ticketing system** designed to simplify **event management, ticket booking, and user interactions** for different types of users, including **admins, event organizers, registered users, and general visitors**. The system allows users to **search for events, book tickets, view booking history, and save favorite events**. Additionally, admins and event organizers can **manage events, tickets, and sales reports**.  
 
 The system also supports additional features such as **real-time ticket availability tracking, event review system, and analytics** to provide insights to admins and organizers about event performance.  
-
-## Key Features 
-#### **1. User Management (UI)**  
-**Admin:**  
-- Manage users (**CRUD** - Create, Read, Update, Delete).  
-- Create new users with roles (**admin, event organizer, or regular user**).  
-- Remove inactive users.  
-
-**Event Organizer:**  
-- No access to user management.  
-
-**Registered User:**  
-- Manage their own profile.
-
-#### **2. Event Management**  
-**Admin & Event Organizer:**  
-- Create, edit, and delete events.  
-- Add event details such as **name, description, date, time, location, ticket price, ticket quota, and event images**.  
-- View a list of created events.  
-
-#### **3. Ticket Booking**  
-**Registered User:**  
-- Book tickets for specific events.  
-- View their ticket booking history.  
-- Cancel ticket bookings if within the allowed cancellation period.  
-
-#### **4. Favorite Events**  
-**Registered User:**  
-- Save events to their **favorites list**.  
-- View their **saved favorite events**.  
-
-#### **5. Reports & Analytics**  
-**Admin & Event Organizer:**  
-- View **ticket sales reports** for specific events.  
-- Display **data** such as **total tickets sold, total revenue, and booking status**.  
-- Provide **charts and statistics** related to event performance (optional).  
-
-#### **6. Event Rating & Review**  
-**Registered User:**  
-- Leave **reviews and ratings** for attended events.  
-
-#### **7. Real-Time Availability Tracker**  
-**All Users:**  
-- Display the **real-time number of available tickets** for each event.
 
 ## User Structure & Usage Flow
 #### **1. Admin**  
@@ -185,41 +141,6 @@ The guest dashboard provides tools for browsing events and viewing event details
 #### 3. **Tools and Libraries**  
 - **Flowbite**: For additional UI components.  
 - **Middleware**: To manage access based on user roles.
-
-## 📂 File Structure 
-#### **1. User Management**  
-- **Controller**: `AdminController.php`  
-- **Model**: `User.php`  
-- **View**: `resources/views/admin/users/*`  
-- **Route**: `web.php`  
-
-#### **2. Event Management**  
-- **Controller**: `AdminController.php`, `OrganizerDashboardController.php`  
-- **Model**: `Event.php`  
-- **View**:  
-  - `resources/views/admin/events/*`  
-  - `resources/views/organizer/events/*`  
-- **Route**: `web.php`  
-
-#### **3. Ticket Booking**  
-- **Controller**: `UserDashboardController.php`  
-- **Model**: `Booking.php`  
-- **View**: `resources/views/dashboard/user/bookings/*`  
-- **Route**: `web.php`  
-
-#### **4. Favorites**  
-- **Controller**: `UserDashboardController.php`  
-- **Model**: `Favorite.php`  
-- **View**: `favorite.blade.php`  
-- **Route**: `web.php`  
-
-#### **5. Reports & Analytics**  
-- **Controller**: `AdminController.php`, `OrganizerDashboardController.php`  
-- **Model**: `Booking.php`  
-- **View**:  
-  - `resources/views/admin/reports/*`  
-  - `resources/views/organizer/reports/*`  
-- **Route**: `web.php`  
 
 ## 🎉 Conclusion  
 This project demonstrates how to create a robust and user-friendly **E-Ticket Event System** using **Laravel**, **Tailwind CSS**, and **Flowbite**. By incorporating features like **user management**, **event booking**, **real-time ticket availability tracking**, and **reports & analytics**, the system provides a seamless experience for both users and administrators.  
