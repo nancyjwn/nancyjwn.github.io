@@ -1,6 +1,6 @@
 ---
 title: "Create a Simple Blackjack Game with HTML and JavaScript"
-date: 2025-04-04
+date: 2024-10-11
 categories: [Web Development]
 tags: [HTML, JavaScript, Tailwind CSS]
 author: Nancy Jiwono
@@ -78,6 +78,9 @@ To run this project locally, follow these steps:
 ### Example of Game Start  
 Here is an example of how the game looks when it starts:  
 ![Game Start Example](/assets/blackJack/play.png)  
+
+Here is an example of how the game looks when it win:  
+![Game Win Example](/assets/blackJack/win.png)  
 *This is the initial screen where the player can see their balance, enter a bet amount, and start the game.* 
 
 Here is the detailed game flow:  
