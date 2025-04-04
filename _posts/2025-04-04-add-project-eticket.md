@@ -66,7 +66,7 @@ The system also supports additional features such as **real-time ticket availabi
 - Views **statistics and analytics** related to event performance.  
 - Logs in as an **admin** to oversee the system.  
 
-### **Admin Dashboard Features**  
+#### **Admin Dashboard Features**  
 The admin dashboard provides powerful tools for managing the system, including:  
 - 📝 **Event Management**: Create, update, and delete events.  
 - 📊 **Reports & Analytics**: View ticket sales reports and user activity analytics.  
@@ -89,16 +89,55 @@ The admin dashboard provides powerful tools for managing the system, including:
 - Cannot **edit or delete** events created by other organizers.  
 - Logs in as an **organizer**, creates events, and monitors ticket sales.  
 
+#### **Organizer Dashboard Features**  
+The organizer dashboard provides tools for managing events and monitoring ticket sales.  
+
+![Organizer Dashboard Overview](/assets/eticket/OrganizerHome.png)  
+*Figure 1: The organizer dashboard provides a summary of all events and ticket sales, offering quick access to event management and sales monitoring tools.*  
+
+![Event Management Section](/assets/eticket/OrganizerEvent.png)  
+*Figure 2: The event management section allows organizers to create, edit, and delete events, as well as manage event details like date, location, and ticket quotas.*  
+
+![Ticket Booking List](/assets/eticket/OrganizerBooking.png)  
+*Figure 3: The ticket booking section provides a detailed list of ticket bookings for each event, helping organizers track sales and attendee information.*  
+
 #### **3. Registered User (Pengguna Terdaftar)**  
 - Creates an **account**, logs in, and **books tickets**.  
 - Views **booking history and status**.  
 - Saves events to their **favorites list**.  
 - Can cancel **ticket bookings** if within the allowed cancellation window.  
 
-#### **4. Guest (Pengunjung Umum)**  
+### **Register User Dashboard Features**  
+The user dashboard provides tools for managing profiles, viewing bookings, and saving favorite events.  
+
+![User Dashboard Overview](/assets/eticket/UserHome.png)  
+*Figure 1: The user dashboard provides an overview of the user's activity, including quick access to booking history, favorite events, and profile management.*  
+
+![Event List Section](/assets/eticket/UserEvent.png)  
+*Figure 2: The event list section displays all available events, allowing users to browse and select events to book tickets.*  
+
+![Booking History Section](/assets/eticket/UserDetail.png)  
+*Figure 3: The booking history section shows a detailed list of the user's past and current ticket bookings, including event details and booking status.*  
+
+![Booking Details Section](/assets/eticket/UserBooking.png)  
+*Figure 4: The booking details section provides specific information about each ticket booking, such as seat numbers and payment status.*  
+
+![Detailed Booking View](/assets/eticket/UserDetailBook.png)  
+*Figure 5: The detailed booking view allows users to see comprehensive information about their ticket bookings, including cancellation options if applicable.*  
+
+![Favorite Events Section](/assets/eticket/UserFav.png)  
+*Figure 6: The favorite events section displays a list of events saved by the user for quick access in the future.*  
+
+#### **4. Guest**  
 - Views the **event list and details** on the homepage.  
 - Clicks **"View Details"** to check event information.  
 - Must **log in or register** to book tickets or save events to favorites.
+
+#### **Guest Dashboard Features**  
+The guest dashboard provides tools for browsing events and viewing event details. Guests can explore the event catalog but must log in or register to book tickets or save events to favorites.  
+
+![Guest Dashboard Overview](/assets/eticket/guestView.png)  
+*Figure 1: The guest dashboard displays a list of available events, allowing guests to browse and view event details. Guests must log in or register to access booking and favorite features.*  
 
 ## Layout and User Interface
 #### **1. Login/Register Page**  
@@ -182,3 +221,17 @@ The admin dashboard provides powerful tools for managing the system, including:
   - `resources/views/organizer/reports/*`  
 - **Route**: `web.php`  
 
+## 🎉 Conclusion  
+This project demonstrates how to create a robust and user-friendly **E-Ticket Event System** using **Laravel**, **Tailwind CSS**, and **Flowbite**. By incorporating features like **user management**, **event booking**, **real-time ticket availability tracking**, and **reports & analytics**, the system provides a seamless experience for both users and administrators.  
+
+This project highlights the power of **Laravel** as a backend framework and the flexibility of **Tailwind CSS** for creating responsive and visually appealing user interfaces.  
+
+For the complete source code and implementation details, visit the [GitHub Repository](https://github.com/nancyjwn/TickYong-e-ticket-).  
+
+---
+
+Hope you enjoyed and learned something new! 🎉 
+
+Stay healthy and take care! 💪🏻
+
+Thank youu!!! 
