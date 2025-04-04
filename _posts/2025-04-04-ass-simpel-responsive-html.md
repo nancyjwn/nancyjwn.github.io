@@ -6,7 +6,7 @@ tags: [HTML, CSS, Responsive Design]
 author: Nancy Jiwono
 layout: post
 description: "Learn how to create a simple responsive HTML page using modern web development techniques."
-image: /assets/simpelHTML/newnewcover.png
+image: /assets/simpelHTML/kusuriya.png
 comments: true
 ---
 
