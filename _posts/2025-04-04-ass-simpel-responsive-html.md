@@ -101,5 +101,7 @@ For the complete source code, visit the [GitHub](https://github.com/nancyjwn/Sim
 
 ---
 Hope you enjoyed and learned something new! 🎉 
+
 Stay healthy and take care! 💪🏻
+
 Thank youu!!! 
