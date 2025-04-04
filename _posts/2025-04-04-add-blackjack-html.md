@@ -6,7 +6,7 @@ tags: [HTML, JavaScript, Tailwind CSS]
 author: Nancy Jiwono
 layout: post
 description: "Learn how to create a simple Blackjack game using HTML, Tailwind CSS, and JavaScript."
-image: /assets/blackjack/coverblackjack.jpeg
+image: /assets/blackJack/coverblackjack.jpeg
 comments: true
 ---
 
