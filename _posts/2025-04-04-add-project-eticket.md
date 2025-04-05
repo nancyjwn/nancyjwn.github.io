@@ -2,7 +2,7 @@
 title: "Create an E-Ticket Event System with Laravel"
 date: 2024-12-05
 categories: [Web Development]
-tags: [Laravel, PHP, Tailwind CSS, Flowbite]
+tags: [Laravel, PHP, Tailwind CSS, Flowbite, Project]
 author: Nancy Jiwono
 layout: post
 description: "Learn how to create an E-Ticket booking system using Laravel, a powerful PHP framework."
@@ -147,7 +147,7 @@ This project demonstrates how to create a robust and user-friendly **E-Ticket Ev
 
 This project highlights the power of **Laravel** as a backend framework and the flexibility of **Tailwind CSS** for creating responsive and visually appealing user interfaces.  
 
-For the complete source code and implementation details, visit the [GitHub Repository](https://github.com/nancyjwn/TickYong-e-ticket-).  
+For the complete source code and implementation details, visit the [GitHub](https://github.com/nancyjwn/TickYong-e-ticket-).  
 
 ---
 
