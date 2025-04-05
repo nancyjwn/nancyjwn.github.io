@@ -6,7 +6,7 @@ tags: [CSS, Java, JavaFX, OOP, Project]
 author: Nancy Jiwono
 layout: post
 description: "Learn the fundamentals of Object-Oriented Programming (OOP) in Java through this SkillUp project."
-image: /assets/skillUp/skillUpCover.png
+image: /assets/skillUp/coverSkillUp.png
 comments: true
 ---
 
