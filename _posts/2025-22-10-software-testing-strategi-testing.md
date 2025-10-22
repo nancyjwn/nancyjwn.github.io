@@ -5,7 +5,7 @@ categories: [Software Testing]
 author: Nancy Jiwono
 layout: post
 description: "Explain about basic concept of testing"
-image: /assets/softwareTesting/testingStrategy.png
+image: /assets/software/testingStrategi.png
 comments: true
 ---
 
