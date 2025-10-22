@@ -1,11 +1,11 @@
 ---
-title: "Stategi Testing"
+title: "Testing Strategy"
 date: 2025-10-22
 categories: [Software Testing]
-tags: [Python, BeautifulSoup, Web Scraping, Tutorial]
 author: Nancy Jiwono
 layout: post
-description: "strategi test"
+description: "Explain about basic concept of testing"
+image: /assets/softwareTesting/testingStrategy.png
 comments: true
 ---
 
