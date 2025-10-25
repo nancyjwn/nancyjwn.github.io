@@ -78,44 +78,9 @@ This project is likely to use the following technologies (based on application r
 - Access resources for personal development.  
 - Participate in training and webinars to improve their skills.
 
-Here are some application screenshots for user:
-![Welcome Page Example](/assets/skillUp/welcomePage.png)  
-*Figure 1: The welcome page introduces users to the SkillUp application, providing an overview of its features and benefits.*  
-
-![User Home Dashboard Example](/assets/skillUp/userHome.png)  
-*Figure 2: The user home dashboard displays quick access to MBTI results, career recommendations, and available webinars.*  
-
-![MBTI Test Interface Example](/assets/skillUp/userTestMbti.png)  
-*Figure 3: The MBTI test interface allows users to answer questions and discover their personality type.*  
-
-![MBTI Test Results Example](/assets/skillUp/userResultMbti.png)  
-*Figure 4: The MBTI test results page provides users with their personality type, career recommendations, and self-development tips.*  
-
-![Webinar List Example](/assets/skillUp/userWebinarList.png)  
-*Figure 5: The webinar list interface shows available webinars with details such as title, date, and registration options.*  
-
-![Webinar Details Example](/assets/skillUp/userWebinarDetail.png)  
-*Figure 6: The webinar details page provides comprehensive information about a specific webinar, including its description and registration link.*  
-
 #### 2. **For Admins:**
 - Simplify the management of application content.  
 - Provide users with relevant and up-to-date information.
-
-Here are some application screenshots for admin:
-![Welcome Page Example](/assets/skillUp/welcomePage.png)  
-*Figure 1: The welcome page introduces users to the SkillUp application, providing an overview of its features and benefits.*  
-
-![Admin Home Dashboard Example](/assets/skillUp/adminHome.png)  
-*Figure 2: The admin home dashboard provides a summary of key metrics and quick access to tools for managing articles, webinars, and user data.*  
-
-![Edit Webinar Example](/assets/skillUp/adminEditWebinar.png)  
-*Figure 3: The webinar editing page allows admins to update webinar details, such as title, description, and schedule.*  
-
-![Article List Example](/assets/skillUp/adminArtikelList.png)  
-*Figure 4: The article list page displays all published articles, with options to edit or delete them.*  
-
-![Edit Article Example](/assets/skillUp/adminEditArtikel.png)  
-*Figure 5: The article editing page enables admins to modify article content, including the title, body, and associated images.*   
 
 ## 🎉 Conclusion  
 The **SkillUp Application** is a powerful tool for career development and personal growth. By incorporating features like **MBTI tests**, **career articles**, and **webinars**, this project provides a comprehensive platform for users to enhance their skills and explore new opportunities.  

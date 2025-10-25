@@ -1,6 +1,6 @@
 ---
 title: "Testing Strategy"
-date: 2025-10-22
+date: 2025-08-25
 categories: [Software Testing]
 author: Nancy Jiwono
 layout: post
@@ -104,3 +104,8 @@ Other objectives include:
 
 **Software Testing** is an integral part of the **Software Development Life Cycle (SDLC)**. Testing is a **critical phase** in software development, to ensure delivery of **high-quality, bug-free software that is appreciated by users**.
 
+---
+
+Hope you enjoyed and learned something new! 🎉 
+
+Thank youu!!! 
